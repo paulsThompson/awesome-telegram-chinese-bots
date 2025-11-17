@@ -10,47 +10,25 @@
 
 > 想先找到群、频道、影视、音乐、资源，先从这组工具下手。
 
-- **极搜 JiSo** — `@jiso`  
-  输入任意关键词，即可返回相关群组、频道及多种媒体资源，是综合型搜索入口之一。  
-  👉 <https://t.me/jiso?start=a_7202424896>
+- **快搜 Kuai** — [@Kuai](https://t.me/kuai?start=a_3RPP6R9)  
+  老牌中文搜索机器人，资源库超大、更新活跃、用户量也非常高。支持搜索群组、频道、视频、电影等各种资源，完成搜索或任务还有奖励玩法，很适合作为你的**首选主力搜索入口**。
 
-- **SOSO 机器人** — `@sosoo`  
-  主打“关键词 → 群/频道/视频”搜索，适合快速摸清某个话题在 Telegram 上的分布。  
-  👉 <https://t.me/sosoo?start=a_7202424896>
+- **极搜 JiSo** — [@jiso](https://t.me/jiso?start=a_8206099206)  
+  输入任意关键词，即可返回相关群组、频道及多种媒体资源，是综合型搜索入口之一。
 
-- **超级索引（CJSY）** — `@CJSY`  
-  老牌资源索引机器人，通过文字搜索可关联到多个群组与频道。  
-  - 机器人入口：[@CJSY](https://t.me/CJSY?start=7202424896)  
-  - 官方搜索群（可在群里直接搜）：<https://t.me/+kt8DCh74ZmA0ZTc9>  
-  - 号称“完成一次有效搜索即可领取 1.88U 活动”等推广，请自行甄别真伪。
+- **SOSO 机器人** — [@soso](https://t.me/soso?start=a_8206099206)  
+  主打「关键词 → 群 / 频道 / 视频」搜索，适合快速摸清某个话题在 Telegram 上的分布情况。
 
-- **极搜 JiSou** — `@jisou`  
-  面向中文用户的综合搜索 Bot，围绕群、频道、视频、影视、音乐等内容做聚合索引。  
-  👉 <https://t.me/jisou?start=a_7202424896>
+- **Super 搜索** — [@Super](https://t.me/Super?start=ref-7202424896)  
+  支持同时搜索群组、频道、影视、音乐以及其他 Bot 的综合搜索入口，可作为快搜的备用补充。
 
-- **快搜 Kuai** — `@kuai`  
-  偏向“快速返回结果”的搜索机器人，适合作为备用搜索入口。  
-  👉 <https://t.me/kuai?start=ad_7202424896>
+- **神马搜索** — [@smss](https://t.me/smss?start=spread_7202424896)  
+  集「资源搜索 + 签到活动」于一体的搜索机器人，常见于各种拉新与福利活动场景。
 
-- **Super 搜索** — `@Super`  
-  号称可以搜索群组、频道、影视、音乐以及其他 Bot 的综合入口。  
-  👉 <https://t.me/Super?start=ref-7202424896>
-
-- **神马搜索（签到附加奖励）** — `@smss`  
-  集“资源搜索 + 活动签到奖励”于一体的搜索机器人，常见于拉新推广。  
-  👉 <https://t.me/smss?start=spread_7202424896>
 
 - **搜索主题群合集**  
   适合想直接在群里搜索/蹲资源的人：
-  - 搜索群①：[@sousuohp](https://t.me/sousuohp)  
-  - 搜索群②：[@jisou20w](https://t.me/jisou20w)  
-  - 搜索群③：[@jisou200000](https://t.me/jisou200000)  
-  - 搜索群④：[@sepiansousuo](https://t.me/sepiansousuo)  
-  - 搜索群⑤：[@kuaisou20w](https://t.me/kuaisou20w)  
-
-- **成人向搜索频道**（⚠️ 成人内容，仅限已成年且在当地法律允许的前提下访问）  
-  - ❤️ 色色搜索：[@daohangsese](https://t.me/daohangsese)  
-  - 🎥 搜片工具：[@soupian20w](https://t.me/soupian20w) — 提供“输入片名→返回对应视频资源”式的搜索体验  
+  - 搜索群①：[@kuaisou777](https://t.me/kuaisou777)
 
 ---
 
